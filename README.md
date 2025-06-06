@@ -3,6 +3,7 @@ TypeScript: Learn to be a PRO 🚀
 Welcome to the TypeScript: Learn to be a PRO repository!
 
 📘 What's Inside?
+
 ✅ Core TypeScript Concepts
 
 ✅ Hands-on Code Examples
@@ -14,6 +15,7 @@ Welcome to the TypeScript: Learn to be a PRO repository!
 ✅ Best Practices and Tips
 
 🎯 Goals
+
 ✅ Build a strong foundation in TypeScript
 
 ✅ Understand how TypeScript improves JavaScript development
