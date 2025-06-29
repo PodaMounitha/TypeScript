@@ -8,7 +8,7 @@ Welcome to the TypeScript: Learn to be a PRO repository!
 
 ✅ Hands-on Code Examples
 
-✅ Real-world Use Cases
+✅ Hands-on Code Exercises with solutions
 
 ✅ Advanced TypeScript Techniques
 
