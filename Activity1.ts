@@ -12,6 +12,7 @@ let age : number = 19;
 console.log("My age is :" + age);
 
 // If I try to assign a number to a variable declared as a string, it will throw an error.
+//Hence this is not possible in TypeScript
 
 let Myname :  string = "Poda Mounitha";
 // Myname = 19; // This will cause a TypeScript error: Type 'number' is not assignable to type 'string'.
