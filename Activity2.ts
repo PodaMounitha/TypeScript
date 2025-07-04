@@ -7,7 +7,7 @@ Add a single-line and a multi-line comment to your code.
 Define a class called Person with a method sayHello that prints a greeting.
 */
 
-let fruit :  string = "Mange";
+let fruit :  string = "Mango";
 console.log("My favourite fruit is : " + fruit);
 
 // Single-line comment
