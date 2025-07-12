@@ -1,13 +1,13 @@
 //Define a union type for a vehicle that can either be a car or bike with different properties.
 //Write a function to log details based on the vehicle type.
 
-type Car={
+type Car = {
     type: 'car';
     make: string;
     model: string;
     year: number;
 };
-type Bike={
+type Bike = {
     type: 'bike';
     make: string;
     model: string;
